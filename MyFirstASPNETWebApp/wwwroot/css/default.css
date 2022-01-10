@@ -17,3 +17,7 @@ textarea {
 li {
     list-style-type: none;
 }
+
+h1 {
+    color: red;
+}
