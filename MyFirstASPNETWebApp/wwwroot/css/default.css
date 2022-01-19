@@ -9,10 +9,6 @@ label {
     display: inline-block;
 }
 
-textarea {
-    font-size: 20px;
-
-}
 
 li {
     list-style-type: none;
@@ -20,4 +16,8 @@ li {
 
 h1 {
     color: red;
+}
+
+textarea {
+    font-size: 20px;
 }
